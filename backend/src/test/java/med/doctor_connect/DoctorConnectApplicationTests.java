@@ -1,10 +1,10 @@
-package med.doctorlink;
+package med.doctor_connect;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DoctorlinkApplicationTests {
+class DoctorConnectApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,13 @@
-package med.doctorlink;
+package med.doctor_connect;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DoctorlinkApplication {
+public class DoctorConnectApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DoctorlinkApplication.class, args);
+		SpringApplication.run(DoctorConnectApplication.class, args);
 	}
 
 }
