@@ -1,0 +1,3 @@
+- doctor can create his schedule on that available schedule patient can appointment until sit complete
+- how meeting will create or set by doctor - need clarification
+- how will i determine that those appointment patients are for this schedule

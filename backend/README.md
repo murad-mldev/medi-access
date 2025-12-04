@@ -12,6 +12,6 @@
 - [High Level Design](docs/high_level_design.md)
 - [REST API Design](docs/rest_api_design.md)
 - [Schema Design](docs/schema_design.md)
-- [ER Diagram](docs/er_diamgram.md)
+- [ER Diagram](docs/er_diagram)
 
 
